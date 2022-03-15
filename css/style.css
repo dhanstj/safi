@@ -118,8 +118,9 @@ body{
 .menu_icon li a:hover{
 	opacity: 100%;
 }
-#banner img{
+#banner{
 	width:100%;
+	hight:1080px;
 }
 /*head_end*/
 /*section1_st*/
